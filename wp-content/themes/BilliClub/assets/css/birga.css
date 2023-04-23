@@ -1,0 +1,44 @@
+.birga {
+    background-color: #004aa8;
+}
+
+.nav {
+    background: transparent !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+h2 {
+    font-weight: bold !important;
+}
+
+.buttonsTabs {
+    display: flex;
+    justify-content: center;
+}
+
+.bottomMenuKnopki {
+    bottom: 15%;
+}
+
+.paginationBirga {
+    display: flex;
+    justify-content: center;
+}
+
+.menuToptowar {
+    position: absolute;
+    top: 17%;
+    right: 7%;
+    color: #fff;
+}
+
+.btn {
+    background-color: #0096ff !important;
+}
+
+.btn:active {
+    background-color: #004aa8;;
+}

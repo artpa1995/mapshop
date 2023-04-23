@@ -1,0 +1,128 @@
+.navbar-navBottom a{
+    color: #fff;
+    margin-right: 7px;
+}
+.navbar-navBottom a:hover{
+    color: rgb(108, 110, 226);
+}
+
+.navbar-navBottom a:visited{
+    color: #fff;
+}
+
+
+.navbar-navBottom {
+    margin-left: auto;
+}
+
+
+.exampleModalFullscreen {
+    background-color: #00277b;
+    width: 100% !important;
+}
+.exampleModalFullscreen .modal-content {
+    border: none;
+    background-color: #00277b;
+    width: 100 !important;
+    height: 100%;
+}
+.exampleModalFullscreen .modal-content h3 {
+    color: #fff;
+}
+.exampleModalFullscreen .modal-content p{
+    color: #fff;
+}
+
+.menuBottomMain ul li{
+    list-style: none;
+    display: inline-table;
+    text-align: center;
+}
+
+.menuBottomMain ul li a{
+    color: #fff;
+    font-size: 0.65em;
+}
+
+.menuBottomMain p{
+    margin-right: 10px;
+    text-align: right !important;
+    margin-bottom: 0px;
+}
+.li2botMenu {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.li1botMenu {
+    margin-left: -20px !important;
+}
+
+.menuTopSvertnut {
+    position: absolute;
+    top: 6%;
+    left: 7%;
+    color: #fff;
+}
+.pointuTopMenu {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    background-color: #004aa8;
+    color: #fff;
+    padding: 7px;
+    border-radius: 25px;
+    border: 2px solid #0b77ff;
+}
+
+.pointuTopMenu img{
+    margin-left: 10px;
+    height: 17px;
+}
+.pointuTopMenu span{
+    font-size: 0.9em;
+    margin-right: 10px;
+    margin-left: 35px;
+}
+
+.bottomMenuKnopki {
+    position: absolute;
+    bottom: 20%;
+    right: 7%;
+}
+
+.bottomMenuKnopki div svg{
+    background-color: #004aa8;
+    color: #fff;
+    width: 40px;
+    padding: 7px;
+    border-radius: 25px;
+    border: 2px solid #0b77ff;
+}
+
+.nav-link span{
+    color: #fff !important;
+}
+
+.bottomMenuMain {
+    border-top: 2px solid #0b77ff;
+    background-color: #004aa8 !important;
+    width: 100%;
+    height: 55px;
+}
+.bottomMenuMain .row{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.bottomMenuMainP {
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-size: 11px;
+}
+.bottomMenuMainP svg{
+    height: 30px;
+    padding-top: 3px;
+}
+
